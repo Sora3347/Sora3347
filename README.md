@@ -59,7 +59,7 @@ Jovem profissional em início de carreira na área de **Tecnologia da Informaç�
 ---
 
 ## 🌐 Conecte-se comigo
-- [LinkedIn](https:/(https://www.linkedin.com/in/gabriel-ribeiro-de-cerqueira-64273437a/)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-ribeiro-de-cerqueira-64273437a/)
 
 ---
 
