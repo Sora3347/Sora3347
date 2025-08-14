@@ -43,7 +43,7 @@ Jovem profissional em início de carreira na área de **Tecnologia da Informaç�
 
 ---
 
-## 📚 Atualmente aprendendo
+## 📚 Atualmente Aprendendo
 - Fundamentos avançados de auditoria de TI
 - Ferramentas de análise de segurança
 - Novas tecnologias para desenvolvimento web full stack
